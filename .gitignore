@@ -39,6 +39,7 @@ HELP.md
 .project
 .settings
 .springBeans
+.jpb
 .sts4-cache
 bin/
 !**/src/main/**/bin/
